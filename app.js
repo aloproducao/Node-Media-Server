@@ -24,8 +24,8 @@ const config = {
     api: true,
     api_user: 'admin',
     api_pass: 'admin',
-    play: false,
-    publish: false,
+    play: true,
+    publish: true,
     secret: 'nodemedia2017privatekey'
   },
 };
